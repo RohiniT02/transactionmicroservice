@@ -1,0 +1,19 @@
+apiVersion : apps/v1
+kind: Deployment
+metadata:
+  name: transactionmicroservice 
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: transactionmicroservice
+  template:
+    metadata:
+      labels:
+        app: transactionmicroservice 
+    spec:
+      containers:
+        - name: transactionmicroservice 
+          image: transactionmsregistry.azurecr.io/transactionmicroservice
+          ports:
+          - containerPort: 80
