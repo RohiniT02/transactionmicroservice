@@ -1,0 +1,300 @@
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\testhost.dll
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\appsettings.json
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\TransactionMicroservice.exe
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\testhost.exe
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\nunit.engine.dll
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\nunit.engine.core.dll
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\TransactionTest.deps.json
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\TransactionTest.runtimeconfig.json
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\TransactionTest.runtimeconfig.dev.json
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\TransactionTest.dll
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\TransactionTest.pdb
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\Castle.Core.dll
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\Moq.dll
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\nunit.framework.dll
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\TransactionMicroservice.dll
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\TransactionMicroservice.pdb
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\obj\Debug\netcoreapp3.1\TransactionTest.csprojAssemblyReference.cache
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\obj\Debug\netcoreapp3.1\TransactionTest.AssemblyInfoInputs.cache
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\obj\Debug\netcoreapp3.1\TransactionTest.AssemblyInfo.cs
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\obj\Debug\netcoreapp3.1\TransactionTest.csproj.CoreCompileInputs.cache
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\obj\Debug\netcoreapp3.1\TransactionTest.csproj.CopyComplete
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\obj\Debug\netcoreapp3.1\TransactionTest.dll
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\obj\Debug\netcoreapp3.1\TransactionTest.pdb
+F:\Cognizant Training\updated\TransactionMicroservice\TransactionTest\obj\Debug\netcoreapp3.1\TransactionTest.genruntimeconfig.cache
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\appsettings.json
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\testhost.exe
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\testhost.dll
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\TransactionMicroservice.exe
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\nunit.engine.dll
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\nunit.engine.core.dll
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\TransactionTest.deps.json
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\TransactionTest.runtimeconfig.json
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\TransactionTest.runtimeconfig.dev.json
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\TransactionTest.dll
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\TransactionTest.pdb
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\Castle.Core.dll
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\Moq.dll
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\nunit.framework.dll
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\TransactionMicroservice.dll
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\bin\Debug\netcoreapp3.1\TransactionMicroservice.pdb
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\obj\Debug\netcoreapp3.1\TransactionTest.csprojAssemblyReference.cache
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\obj\Debug\netcoreapp3.1\TransactionTest.AssemblyInfoInputs.cache
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\obj\Debug\netcoreapp3.1\TransactionTest.AssemblyInfo.cs
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\obj\Debug\netcoreapp3.1\TransactionTest.csproj.CoreCompileInputs.cache
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\obj\Debug\netcoreapp3.1\TransactionTest.csproj.CopyComplete
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\obj\Debug\netcoreapp3.1\TransactionTest.dll
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\obj\Debug\netcoreapp3.1\TransactionTest.pdb
+F:\Dotnet\MFPE\TransactionMicroserviceUpdated\TransactionMicroservice\TransactionTest\obj\Debug\netcoreapp3.1\TransactionTest.genruntimeconfig.cache

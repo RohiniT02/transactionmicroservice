@@ -1,0 +1,22 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: transactionmicroservice-deployment
+spec:
+  selector:
+    matchLabels:
+      app: transactionmicroservice-pod
+  template:
+    metadata:
+      labels:
+        app: transactionmicroservice-pod
+    spec:
+      containers:
+      - name: transactionmicroservice-container
+        image: transactionmicroservice:v1
+        resources:
+          limits:
+            memory: "128Mi"
+            cpu: "500m"
+        ports:
+        - containerPort: 80
